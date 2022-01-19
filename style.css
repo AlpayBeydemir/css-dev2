@@ -1,0 +1,35 @@
+.box1
+{
+    background-color: rgb(238, 238, 238);
+}
+.td-left
+{
+    background-color: rgb(126, 229, 218);
+    width: 37%;
+}
+.td-medium
+{
+    background-color: rgb(112, 204, 194);
+    font-size: small;
+    width: 25%;
+}
+.td-right
+{
+    background-color: rgb(98, 179, 170);
+    font-size: small;
+    width: 40%;
+}
+table
+{
+    min-width: 100%;
+    margin: auto;
+}
+button
+{
+    border-radius: 3px;
+}
+html 
+{
+    margin-left: 2%;
+    margin-right: 2%;
+}
